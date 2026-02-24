@@ -1,3 +1,8 @@
+# 23rd feb 2026
+# Intro to DSA
+# I/O operations
+# loops 
+
 # Print numbers from 1 to n
 def print_numbers_sum(n):
     for i in range(1,n+1):
